@@ -77,10 +77,12 @@ function harvestMetadata(dataSources, dataHarvestMetadata) {
 
 			file.download(uri, dataSources[i].nuts, 'metadata', function (path, userData) {
 				file.loadJSON(path, function (json, dataSource) {
-//					console.log(json);
-
-//					result = $HarvestMetadata->parse( contents, $json);
-					result = {error: true, errorMsg: 'TODO: download and parse metadata'};
+					if (json === null) {
+						result = {error: true, errorMsg: 'Could not download metadata'};
+					} else {
+//						result = $HarvestMetadata->parse( contents, $json);
+						result = {error: true, errorMsg: 'TODO: download and parse metadata'};
+					}
 					txt = '';
 
 					txt += dataSources[dataSource].nuts;
