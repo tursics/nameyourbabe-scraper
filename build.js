@@ -30,7 +30,9 @@ function harvestMetadata(dataSources, dataHarvestMetadata) {
 		dataData,
 		name,
 		uri,
-		result;
+		result,
+		nutsList = [],
+		counts;
 
 	console.log('NUTS region      Update      Name');
 	console.log('---------------- ----------- ----------------------------------------');
@@ -75,7 +77,11 @@ function harvestMetadata(dataSources, dataHarvestMetadata) {
 				uri = './data' + uri;
 			}
 
-			file.download(uri, dataSources[i].nuts, 'metadata', function (path, userData) {
+			counts = {};
+			nutsList.push(dataSources[i].nuts);
+			nutsList.forEach(function (x) { counts[x] = (counts[x] || 0) + 1; });
+
+			file.download(uri, dataSources[i].nuts + '_' + String.fromCharCode(96 + counts[dataSources[i].nuts]), 'metadata', function (path, userData) {
 				file.loadJSON(path, function (json, dataSource) {
 					if (json === null) {
 						result = {error: true, errorMsg: 'Could not download metadata'};
