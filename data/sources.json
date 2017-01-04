@@ -143,39 +143,43 @@
 	},
 	{
 		"nuts": "DEA1F024",
-		"name": "Beliebte Vornamen für Neugeborene 2009 der Stadt Moers",
-		"meta": "https://www.moers.de/de/rathaus/beliebte-vornamen-fuer-neugeborene-2009/",
-		"citation": "Datenquelle: Stadt Moers – offenedaten.moers.de"
+		"name": "Moers 2009",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=beliebte-vornamen-fur-neugeborene-2009"
 	},
 	{
 		"nuts": "DEA1F024",
-		"name": "Beliebte Vornamen für Neugeborene 2010 der Stadt Moers",
-		"meta": "https://www.moers.de/de/rathaus/beliebte-vornamen-fuer-neugeborene-2010/",
-		"citation": "Datenquelle: Stadt Moers – offenedaten.moers.de"
+		"name": "Moers 2010",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=beliebte-vornamen-fur-neugeborene-2010"
 	},
 	{
 		"nuts": "DEA1F024",
-		"name": "Beliebte Vornamen für Neugeborene 2011 der Stadt Moers",
-		"meta": "https://www.moers.de/de/rathaus/beliebte-vornamen-fuer-neugeborene-2011/",
-		"citation": "Datenquelle: Stadt Moers – offenedaten.moers.de"
+		"name": "Moers 2011",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=beliebte-vornamen-fur-neugeborene-2011"
 	},
 	{
 		"nuts": "DEA1F024",
-		"name": "Beliebte Vornamen für Neugeborene 2012 der Stadt Moers",
-		"meta": "https://www.moers.de/de/rathaus/beliebte-vornamen-fuer-neugeborene-2012/",
-		"citation": "Datenquelle: Stadt Moers – offenedaten.moers.de"
+		"name": "Moers 2012",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=beliebte-vornamen-fur-neugeborene-2012"
 	},
 	{
 		"nuts": "DEA1F024",
-		"name": "Beliebte Vornamen für Neugeborene 2013 der Stadt Moers",
-		"meta": "https://www.moers.de/de/rathaus/beliebte-vornamen-fuer-neugeborene-2013/",
-		"citation": "Datenquelle: Stadt Moers – offenedaten.moers.de"
+		"name": "Moers 2013",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2013"
 	},
 	{
 		"nuts": "DEA1F024",
-		"name": "Vornamenstatistik für Neugeborene 2014 der Stadt Moers",
-		"meta": "https://www.moers.de/de/rathaus/vornamenstatistik-fuer-neugeborene-2014/",
-		"citation": "Datenquelle: Stadt Moers – offenedaten.moers.de"
+		"name": "Moers 2014",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2014"
+	},
+	{
+		"nuts": "DEA1F024",
+		"name": "Moers 2015",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2015"
+	},
+	{
+		"nuts": "DEA1F024",
+		"name": "Moers 2016",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2016"
 	},
 	{
 		"nuts": "US",
@@ -439,7 +443,37 @@
 	},
 	{
 		"nuts": "DEA22",
-		"name": "Bonn",
+		"name": "Bonn 2010",
+		"meta": "https://opendata.bonn.de/api/3/action/package_show?id=155c1d26-e839-461f-b774-45c2ad45f0f0"
+	},
+	{
+		"nuts": "DEA22",
+		"name": "Bonn 2011",
+		"meta": "https://opendata.bonn.de/api/3/action/package_show?id=560c1e90-5d63-4edf-b370-eb642156df5f"
+	},
+	{
+		"nuts": "DEA22",
+		"name": "Bonn 2012",
+		"meta": "https://opendata.bonn.de/api/3/action/package_show?id=8f6b24f5-c72a-4275-92d8-2889b8648e1a"
+	},
+	{
+		"nuts": "DEA22",
+		"name": "Bonn 2013",
+		"meta": "https://opendata.bonn.de/api/3/action/package_show?id=7e4cd3a1-6a0c-4de9-96bb-4da7bdeb152c"
+	},
+	{
+		"nuts": "DEA22",
+		"name": "Bonn 2014",
+		"meta": "https://opendata.bonn.de/api/3/action/package_show?id=8e7625da-9771-48b1-a247-7358d7d448ca"
+	},
+	{
+		"nuts": "DEA22",
+		"name": "Bonn 2015",
+		"meta": "https://opendata.bonn.de/api/3/action/package_show?id=5011db65-6218-4c1c-8547-2ec7b54190c1"
+	},
+	{
+		"nuts": "DEA22",
+		"name": "Bonn 2016",
 		"meta": "https://opendata.bonn.de/api/3/action/package_show?id=b508256f-e9ba-4adf-a603-920f8c189cd6"
 	},
 	{
@@ -599,13 +633,23 @@
 	},
 	{
 		"nuts": "DEA1F048",
-		"name": "Vornamenstatistik für Neugeborene 2014 in Wesel",
+		"name": "Wesel 2004 - 2013",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik2004-13"
+	},
+	{
+		"nuts": "DEA1F048",
+		"name": "Wesel 2014",
 		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2014-in-wesel"
 	},
 	{
 		"nuts": "DEA1F048",
-		"name": "Vornamenstatistik für Neugeborene 2004 - 2013 in Wesel",
-		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik2004-13"
+		"name": "Wesel 2015",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2015-in-wesel"
+	},
+	{
+		"nuts": "DEA1F048",
+		"name": "Wesel 2016",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2016-in-wesel"
 	},
 	{
 		"nuts": "DE712",
