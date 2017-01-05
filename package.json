@@ -1,0 +1,24 @@
+{
+  "name": "nameyourbabe-scraper",
+  "version": "1.0.0",
+  "description": "Scraper script for project 'Name your babe'",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tursics/nameyourbabe-scraper.git"
+  },
+  "keywords": [],
+  "author": "thomas@tursics.de",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tursics/nameyourbabe-scraper/issues"
+  },
+  "homepage": "https://github.com/tursics/nameyourbabe-scraper#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.1",
+    "xml2json": "^0.10.0"
+  }
+}
