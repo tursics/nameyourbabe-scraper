@@ -10,7 +10,7 @@ function start() {
 		require('./lib/harvest-metadata').harvest(dataSources, function (metadataResultList) {
 			require('./lib/harvest-dataset').harvest(dataSources, metadataResultList, function (datasetResultList) {
 				require('./lib/harvest-givenname').harvest(datasetResultList, function () {
-
+					console.log('> finished <');
 				});
 			});
 		});
