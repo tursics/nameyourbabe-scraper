@@ -423,8 +423,18 @@
 	},
 	{
 		"nuts": "DE212",
-		"name": "[2013] Vornamen von Neugeborenen, München",
+		"name": "München 2013",
 		"meta": "https://www.opengov-muenchen.de/api/3/action/package_show?id=vornamen"
+	},
+	{
+		"nuts": "DE212",
+		"name": "München 2014",
+		"meta": "https://www.opengov-muenchen.de/api/3/action/package_show?id=vornamen-von-neugeborenen-2014"
+	},
+	{
+		"nuts": "DE212",
+		"name": "München 2015",
+		"meta": "https://www.opengov-muenchen.de/api/3/action/package_show?id=vornamen-von-neugeborenen-2015"
 	},
 	{
 		"nuts": "DEA33",
@@ -628,7 +638,7 @@
 	},
 	{
 		"nuts": "DEA2D002",
-		"name": "Vornamen Aachen",
+		"name": "Aachen",
 		"meta": "http://offenedaten.aachen.de/api/3/action/package_show?id=vornamen-2014"
 	},
 	{
