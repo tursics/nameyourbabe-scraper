@@ -198,7 +198,7 @@
 	},
 	{
 		"nuts": "CH04",
-		"name": "[1993-2013] Vornamen von Neugeborenen mit Wohnsitz in der Stadt Zürich",
+		"name": "Zürich",
 		"meta": "https://data.stadt-zuerich.ch/api/3/action/package_show?id=bev-vornamen-baby",
 		"license": "CC0 1.0",
 		"citation": "Datenquelle: Stadt Zürich – data.stadt-zuerich.ch"
@@ -675,6 +675,36 @@
 		"nuts": "DEA16",
 		"name": "Vornamen, Mülheim an der Ruhr",
 		"meta": "https://geo.muelheim-ruhr.de/open-data/vornamen/10035"
+	},
+	{
+		"nuts": "DEA14",
+		"name": "Krefeld 2011",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2011-in-krefeld"
+	},
+	{
+		"nuts": "DEA14",
+		"name": "Krefeld 2012",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2012-in-krefeld"
+	},
+	{
+		"nuts": "DEA14",
+		"name": "Krefeld 2013",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2013-in-krefeld"
+	},
+	{
+		"nuts": "DEA14",
+		"name": "Krefeld 2014",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2014-in-krefeld"
+	},
+	{
+		"nuts": "DEA14",
+		"name": "Krefeld 2015",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2015-in-krefeld"
+	},
+	{
+		"nuts": "DEA14",
+		"name": "Krefeld 2016",
+		"meta": "https://www.offenesdatenportal.de/api/3/action/package_show?id=vornamenstatistik-fur-neugeborene-2016-in-krefeld"
 	},
 	{
 		"nuts": "DE803",
